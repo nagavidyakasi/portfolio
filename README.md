@@ -1,34 +1,44 @@
 # Clinical Research Associate
 [Download Resume](./NVSirisha_Kasi.pdf).
 ## Summary
-Clinical Research professional with 2+ years of experience in managing different phases of Clinical trials, looking for a Clinical Research Coordinator and Assistant Regulatory Coordinator position at global healthcare organization. Capable of handling multiple sites on different therapeutic areas at a time with minimum supervision.
+Versatile clinical research professional knowledgeable about coordinating patient information, laboratory samples and compliance documents for diverse clinical trials. Highly organized and thorough with good planning and problem-solving abilities. Certified in GCP, CRA.
 * * * 
 ## Experience
-### Clinical Research Coordinator and Assistant Regulatory Coordinator
-### Aware Global Hospitals (India – Hyderabad)
-June 2008 – September 2010
-Clients: Eli Lilly, Opko, AstraZeneca etc
+### Clinical Research Coordinator
+### King George Hospital (2008-2010)
 
 ## Role & Responsibilities
-* Under the direct supervision of the Clinical Research Director, Coordinate and participate in all research activities.
-* Thorough knowledge and skills spanning from the study start-up, study conduct, close out activities.
-* Serve as SME to resolve any issues related to studies.
-* Work closely with Team to resolve issues (Supplies, Product accountability, enrollment/ randomizations etc.)
-* Leading all Clinical Trail from patient enrollment and collecting data of patients from Phases II to III and various therapeutic areas of clinical trials including Infectious Disease like HIV, TB and on OCD, GI
-* Proficient with using Electronic Data capture systems (EDC) like Medidata Rave, Veeva vaults, Inform etc.
-* Ensure all necessary forms are submitted to the trial sponsor and the IRB. • Provide regulatory support to new and ongoing research studies. Includes but not limited to correspondence with institutional and federal regulators and study file documentation creation and maintenance.
-* Provide regulatory support to new and ongoing research studies. Includes but not limited to correspondence with institutional and federal regulators and study file documentation creation and maintenance.
-* Make sure team have access to Clinical trial systems Administration.
-* Educated participants on studies and anticipated outcomes.
-* Monitored subject enrollment and tracked dropout details.
-* Monitoring progress & routinely interacting with CRA and keep them updated on study related issues that may impact the study milestone.
-* Generating, resolving, and tracking queries before any IMVs.
-* Worked with a diverse group of coworkers to accomplish goals.
-* Maintain regulatory- related internal tracking databases and filing systems is Realtime CTMS.
-* Coordinate and store protocol files including but are not limited to all protocol submission documents, correspondence from sponsor and study team, and responses/re-submissions.
+•	Followed informed consent processes and maintained records.
+•	Participated in initiation visits and investigator meetings, implementing trials following study timelines and budgets.
+•	Provided regulatory support to new and ongoing research studies
+•	Maintained accurate and up-to-date case report forms and source documents for traceability.
+•	Monitored patient safety throughout clinical trials and reported any adverse events.
+•	Prepared and maintained regulatory documents for clinical trial submissions.
+•	Educated participants on studies and anticipated outcomes
+•	Developed and maintained accurate and up-to-date case report forms and source documents.
+•	Monitored subject enrollment and tracked dropout details
+•	Coordinated and monitored clinical trial activities to support timely and accurate completion of studies.
+•	Monitoring progress & routinely interacting with CRA and keep them updated on study related issues that may impact the study milestone
+•	Managed patient recruitment, informed consent process and data entry to support trial objectives.
+•	Followed clinical research protocols and conducted study visits in compliance with ICH/GCP and FDA regulations.
+•	Worked with a diverse group of coworkers to accomplish goals
+•	Facilitated focus group sessions with project patients.
+•	Collected, evaluated, and modeled collected data
 
 * * * 
+## Education
+### Master of Science: Foods, Nutrition and Dietetics (2008-2010)
+•	Dissertation: Effect of Vitamin C supplementation in HIV patients with Tuberculosis.
+•	200 HIV patients with TB were selected and were given 100mg of Vitamin C daily supplementation for 6 months.
+•	Patients were visited periodically every month and asked to fill out a questionnaire form about their general health.
+•	Vitals, weight, BMI data was collected monthly.
+•	24 hour diet recall is taken every month and major and minor nutrient intake is calculated based on data.
+•	Vitamin C supplementation is increased up to 150mg according to the data collected.
+•	At the end of study, all the vitals, weight, BMI and overall health is checked with the help of a physician.
+•	Outcome: A significant improvement in overall health has been noted with Vitamin C supplementation in HIV patients with Tuberculosis.
+
 
 ## Certifications
 
 * Certified in GCP for clinical trials in investigational drugs and medical devices.
+* Clinical Research Associate (CITI)
