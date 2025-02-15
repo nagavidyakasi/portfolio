@@ -2,7 +2,9 @@
 [Download Resume](./NVSirisha_Kasi.pdf).
 ## Summary
 Versatile clinical research professional knowledgeable about coordinating patient information, laboratory samples and compliance documents for diverse clinical trials. Highly organized and thorough with good planning and problem-solving abilities. Certified in GCP, CRA.
+
 * * * 
+
 ## Experience
 ### Clinical Research Coordinator
 ### King George Hospital (2008-2010)
@@ -26,6 +28,7 @@ Versatile clinical research professional knowledgeable about coordinating patien
 •	Collected, evaluated, and modeled collected data
 
 * * * 
+
 ## Education
 ### Master of Science: Foods, Nutrition and Dietetics (2008-2010)
 •	Dissertation: Effect of Vitamin C supplementation in HIV patients with Tuberculosis.
@@ -39,6 +42,5 @@ Versatile clinical research professional knowledgeable about coordinating patien
 
 
 ## Certifications
-
 * Certified in GCP for clinical trials in investigational drugs and medical devices.
 * Clinical Research Associate (CITI)
